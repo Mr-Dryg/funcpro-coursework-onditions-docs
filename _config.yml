@@ -1,6 +1,5 @@
 title: Funky Language
-description: Documentation for the Funky functional language interpreter
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 markdown: kramdown
 
 github:
