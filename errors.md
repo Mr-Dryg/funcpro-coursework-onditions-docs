@@ -25,6 +25,8 @@
   - `Runtime error: arity mismatch: expected N args, got M`
 - деление на ноль:
   - `Runtime error: division by zero`
+- попытка вызвать значение, которое не является функцией:
+  - `Runtime error: cannot call non-function: <value>`
 - ошибки операций списка:
   - `Runtime error: head: empty list`
   - `Runtime error: tail: empty list`

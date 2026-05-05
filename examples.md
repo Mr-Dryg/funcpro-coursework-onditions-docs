@@ -51,10 +51,15 @@ dotnet run --project src -- examples/higherOrder.fun
 
 ```bash
 dotnet run --project src -- examples/lazy-basic.fun
+# "addition"
 # 42
+# 42
+# "addition"
+# 3
+# 3
 ```
 
-Проверяет базовые `delay`/`force`.
+Проверяет вызываемый thunk с memoization по аргументам.
 
 ## lazy-stream.fun
 
