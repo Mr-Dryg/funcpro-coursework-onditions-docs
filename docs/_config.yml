@@ -1,4 +1,7 @@
 title: Funky Language
 description: Documentation for the Funky functional language interpreter
-theme: minima
+theme: jekyll-theme-cayman
 markdown: kramdown
+
+github:
+  repository_url: https://github.com/MAILabs-Edu-2026/funcpro-coursework-onditions
